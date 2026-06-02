@@ -19,8 +19,8 @@ using Manacher's Algorithm
 ```
 /*
 Program to implement Reverse a String
-Developed by: JAGADEESH J
-Register Number:  212223110015
+Developed by: VIGNESH V
+Register Number:  212223110062
 */
 
 import java.util.*;
